@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Data Analytics, Data Science, and Power BI projects.<br><br>👯 I’m looking to collaborate on Data Analytics, Data Science, SQL, and Power BI projects.<br><br>🤝 I’m looking for help with advanced SQL, data engineering concepts, and real-world analytics case studies.<br><br>🌱 I’m currently learning Data Analytics, Data Science, Machine Learning, SQL, and Power BI.<br><br>💬 Ask me about Python, SQL, Power BI, Data Visualization, Exploratory Data Analysis (EDA), and Machine Learning fundamentals.<br><br>⚡ Fun fact: I enjoy transforming raw datasets into meaningful insights, dashboards, and data-driven solutions.
 
 
