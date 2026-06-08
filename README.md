@@ -35,6 +35,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mehfooz084&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mehfooz084)]
+[![](https://komarev.com/ghpvc/?username=mehfooz084)][![](https://komarev.com)]
+
 
 
