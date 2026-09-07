@@ -10,7 +10,7 @@
 
 
 
-# Hey, I'm Mehfooz Kha 👋
+# Hey, I'm Mehfooz Khan 👋
 **Data Science · Analytics · Power BI** &nbsp;|&nbsp; University of Mumbai · CGPA 9.0
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=1D9E75&center=true&vCenter=true&width=480&lines=I+turn+messy+data+into+clean+stories+%F0%9F%93%8A;Python+%2B+SQL+%2B+curiosity+%3D+insights+%E2%9C%A8;Building+dashboards+that+actually+make+sense+%E2%9A%A1;ML+models.+Real+results.+Zero+fluff+%F0%9F%A4%96;Data+Scientist+in+the+making+%E2%80%94+CGPA+9.0+%F0%9F%8E%93" alt="Typing SVG" />
